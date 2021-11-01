@@ -1,0 +1,14 @@
+{
+  "name": "fetch",
+  "version": "1.0.0",
+  "description": "Fetch function",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Gabriel Dominguez Duran",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
